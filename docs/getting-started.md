@@ -12,9 +12,7 @@ runtime and buffer-representation details.
 - [rebar3](https://rebar3.org/)
 
 Everything else (`patchbay`, `lasso`, `lfe`, `rebar3_lfe`, `ltest`) is
-pulled by `rebar.config`; no global LFE install is required. The
-`patchbay` and `lasso` deps are SSH git URLs, so a checkout needs SSH
-access to `github.com/takeiteasy`.
+pulled by `rebar.config`; no global LFE install is required.
 
 ## Build
 

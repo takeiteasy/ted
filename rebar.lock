@@ -1,11 +1,11 @@
 {"1.2.0",
 [{<<"lasso">>,
-  {git,"git@github.com:takeiteasy/lasso.git",
-       {ref,"1cd9d17b21857f8f4494b915e97c668dd2c79e04"}},
+  {git,"https://github.com/takeiteasy/lasso.git",
+       {ref,"516632247992ae4d1f785cc62bfd17d9979ac46a"}},
   0},
  {<<"lfe">>,{pkg,<<"lfe">>,<<"2.2.2">>},0},
  {<<"patchbay">>,
-  {git,"git@github.com:takeiteasy/patchbay.git",
+  {git,"https://github.com/takeiteasy/patchbay.git",
        {ref,"ea5c67f9b3895819412b951b513fbbcfe0b596ee"}},
   0}]}.
 [
