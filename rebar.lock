@@ -1,0 +1,16 @@
+{"1.2.0",
+[{<<"lasso">>,
+  {git,"git@github.com:takeiteasy/lasso.git",
+       {ref,"1cd9d17b21857f8f4494b915e97c668dd2c79e04"}},
+  0},
+ {<<"lfe">>,{pkg,<<"lfe">>,<<"2.2.2">>},0},
+ {<<"patchbay">>,
+  {git,"git@github.com:takeiteasy/patchbay.git",
+       {ref,"ea5c67f9b3895819412b951b513fbbcfe0b596ee"}},
+  0}]}.
+[
+{pkg_hash,[
+ {<<"lfe">>, <<"9DCAF07B52FB0FDFB80DCBD2B4EC36D5A0AA93B27ADD5A25C4E95E14B0273F76">>}]},
+{pkg_hash_ext,[
+ {<<"lfe">>, <<"E88408510D08F9E02E35745C3B399A4A82EA89B6A8723371AF0A2B2C9ACBB818">>}]}
+].

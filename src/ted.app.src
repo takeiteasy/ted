@@ -1,0 +1,11 @@
+{application, ted,
+ [{description, "ted -- a fully modular text editor: editor subsystems as patchbay plugins over a lasso rope"},
+  {vsn, "0.1.0"},
+  {registered, ['ted-sup']},
+  {mod, {'ted-app', []}},
+  {applications, [kernel, stdlib, patchbay, lasso]},
+  {env, []},
+  {modules, []},
+  {licenses, ["GPL-3.0-only"]},
+  {links, []}
+ ]}.
